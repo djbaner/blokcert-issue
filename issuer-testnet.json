@@ -11,7 +11,7 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x5F5a1b38F516D883AAc07C42863aB0Dc0DCdf796",
-      "created": "2017-06-29T14:48:03.814936+00:00"
+      "created": "2017-12-01T14:48:03.814936+00:00"
     }
   ],
   "revocationList": "https://github.com/djbaner/blokcert-issue/blob/master/revocation-list-testnet.json",
